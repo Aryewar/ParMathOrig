@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParMathOrig", "ParMathOrig\ParMathOrig.csproj", "{D35D0010-9DF3-4DD3-A3F6-5949ED4310DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D35D0010-9DF3-4DD3-A3F6-5949ED4310DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35D0010-9DF3-4DD3-A3F6-5949ED4310DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35D0010-9DF3-4DD3-A3F6-5949ED4310DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35D0010-9DF3-4DD3-A3F6-5949ED4310DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B0E0E89-A9B7-4AF0-A78D-C96506795C4C}
+	EndGlobalSection
+EndGlobal
